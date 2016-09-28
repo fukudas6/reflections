@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+This was a good lession to learn to initialize a git repository
