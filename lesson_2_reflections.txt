@@ -17,3 +17,6 @@ tagging release versions, experimental versions
 
 How do the diagrams help you visualize the branch structure?
 It helps to understand which branches contain specific changes.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A single branch with all changes from both branches. It is represented with 2 arrows, but it contains the commits from both branches, but the commit history is still liked as is shown in the diagram.
