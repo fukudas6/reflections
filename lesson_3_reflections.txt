@@ -1,1 +1,2 @@
-Learning to create new files on GitHub and pull down to my local machine.
+When would you want to use a remote repository rather than keeping all your work local?
+To collaborate with others or to work from different computers and keep the changes in sync.
