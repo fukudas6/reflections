@@ -12,3 +12,6 @@ To be able to work offline and diff/merge the changes between the local and remo
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Sharing code would probaly be the worst way. Possibly using my own subversion server or using an online server, but subversion is limited in how much can be done offline.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When we need to collaborate and get feedback on a new feature before adding it to master. Branching keeps master clean and from having unnecessary code, but changes directly in master is a faster turnaround, because there is no need to merge as changes go into master leaving the branch out of date.
