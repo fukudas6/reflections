@@ -9,3 +9,6 @@ fork is a clone on GitHub, clone copies a repository locally or from GitHub, bra
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 To be able to work offline and diff/merge the changes between the local and remote repositories.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Sharing code would probaly be the worst way. Possibly using my own subversion server or using an online server, but subversion is limited in how much can be done offline.
